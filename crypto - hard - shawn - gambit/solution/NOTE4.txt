@@ -1,0 +1,49 @@
+
+Inspector,
+
+The hour grows late, and im tired of waiting for you make the next 
+move.
+
+Do you know that gadolinium can be used to excise cancerous tumors 
+using neutron therapy? 
+
+Neutrons can remove cancer. Neutrons can remove the impure. 
+
+The universe of full of symmetries, isn't it? A superperfect number.
+
+Do you know where im heading with this?
+
+I've perfected the EMP, after my little tests elsewhere in the city. 
+The next time it will be much bigger. The next time the entire city 
+will feel freedom from the burden of cybernetics, and the pure humans 
+shall rise up and reclaim the earth. Reclaim our future. 
+
+I myself am impure. Did you know this? My will is strong but my lungs 
+are weak, damaged by the foul fumes of our fair city.
+
+This is my final game. My last move. 
+
+1. QN-KB6 KB-KN7
+2. RP-KB4 P-KN6
+3. K-KB5 P-KN1
+4. P-KB6 P-QB7 (PxNP)
+5. KR-Q5 P-KR3 (PxQR)
+6. P-KB6 P-K7
+7. NP-QN5 (NPxNP) KP-QB3
+8. KP-QN8 P-K1
+9. P-QR5 RP-KR3
+10. KN-QN6 (KNxP) P-QN5
+11. Q-KB5 (QxQB) KN-KN1
+12. BP-KB1 BP-KR7
+13. KR-QN5 KP-KR3 (KPxP)
+14. P-QR7 BP-QR5
+15. RP-QN6 P-KN1 (PxP)
+16. NP-KB4 (NPxP) Q-Q7 (QxKP)
+17. QN-KB5 ch Q-KR1 (QxRP)
+18. NP-QN7 (NPxNP) ch K-QN6
+19. RP-QR5 ch P-KR7 (PxRP)
+20. QR-QR6 (QRxP) ch ?
+
+Your computers cannot solve this, because it is a human game.
+
+I shall await you, inspector, in the bliss of the analog afterlife.
